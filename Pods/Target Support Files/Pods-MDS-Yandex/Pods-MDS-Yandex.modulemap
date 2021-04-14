@@ -1,0 +1,6 @@
+framework module Pods_MDS_Yandex {
+  umbrella header "Pods-MDS-Yandex-umbrella.h"
+
+  export *
+  module * { export * }
+}
