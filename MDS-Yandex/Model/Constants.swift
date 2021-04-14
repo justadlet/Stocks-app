@@ -14,7 +14,7 @@ struct Constants {
     static let SP500ProfilesURL = "https://raw.githubusercontent.com/justadlet/testing-API/master/api/stockProfiles.json"
     
     let finnhubToken = "YOUR TOKEN"
-    let IEXToken = "IEX"
+    let IEXToken = "YOUR TOKEN"
     
     func getStockQuote(from website: StockPrice.Site, for symbol: String) -> URL? {
         switch website {
