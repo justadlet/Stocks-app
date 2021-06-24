@@ -1,4 +1,4 @@
-# MDS-Yandex
+# Stocks app
 
 ## ✨ Overview
 
