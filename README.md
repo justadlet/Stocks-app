@@ -5,7 +5,7 @@
 - Local data persistance: [Realm](https://realm.io/)
 - UI: Programmatical
 - Framework: UIKit
-- Stocks API: [Finnhub](https://finnhub.io/)
+- Stocks API: [Finnhub](https://finnhub.io/) + [IEX](https://iexcloud.io/)
 
 ## Third party libraries
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage)
